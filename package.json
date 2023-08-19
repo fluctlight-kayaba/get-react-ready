@@ -1,0 +1,12 @@
+{
+  "name": "get-react-ready",
+  "version": "1.0.0",
+  "description": "This is just another space to getting started with React (Native) and essential programming stuff.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
